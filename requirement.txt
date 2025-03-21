@@ -1,0 +1,7 @@
+python-dotenv
+langchain-groq
+langchain-core
+fastapi
+uvicorn
+pydantic
+python-dateutil
